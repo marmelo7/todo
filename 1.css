@@ -89,3 +89,12 @@ input::placeholder{
     background-repeat: no-repeat;
     background-color: white;
 }
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 2vh;
+}
+#footer{
+    position: absolute;
+    margin-top: 94.5vh;
+}
